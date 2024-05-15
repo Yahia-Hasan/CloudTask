@@ -1,3 +1,3 @@
 @echo off
-echo Hello, %BUILD_USER_ID%
+echo Hello, World Again !
 dir
